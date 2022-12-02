@@ -36,8 +36,9 @@ class BooleanOperations(Scene):
         self.play(FadeIn(difference_text))
         
         
-        
-        ## sin 그래프의 설명 코드입니다.
+ ## sin 그래프의 설명 코드입니다.
+ 
+ 
         from manim import *
 
 class SineCurveUnitCircle(Scene):
